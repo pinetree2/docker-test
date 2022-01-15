@@ -1,0 +1,9 @@
+{
+    "project1": {
+        "image": "pinetree3966/project1:v1.0.0",
+        "ports": {
+            "5000": "HTTP"
+        }
+    }
+}
+
